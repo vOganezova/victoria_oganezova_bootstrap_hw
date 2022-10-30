@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;400&display=swap');
+
+body{
+    max-width:1920px;
+    max-width:100%;
+    font-family: 'Montserrat', sans-serif;
+}
+
+section{
+    padding-top:66px;
+    width:100%;
+}
+
+.container{
+   min-width:80% !important;
+   margin-bottom:102px;
+}
+
+h1{
+    font-size:40px;
+    color:#A80E0E;
+    margin-bottom:62px;
+}
+
+p{
+    margin-bottom:126px;
+}
+
+.left img{
+    max-width:670px;
+    max-height:636px;
+    border-radius:10px;
+}
+
+.right p{
+    line-height:40px;
+    max-width:710px;
+    font-size:20px;
+}
+
+.right img {
+    max-width:100px;
+}
+
+.services{
+    padding-top:187px;
+    padding-bottom:151px;
+}
+
+.card img{
+    width:66px;
+    height:71px;
+    object-fit: contain;
+}
+
+h5{
+    font-size:20px;
+    line-height: 30px;
+    max-width:70%;
+    padding-left:80px;
+}
+
+.card-body img{
+    height:3px;
+    margin-bottom:10px;
+}
+
+.card-text{
+    font-size:16px;
+    max-width:218px;
+    padding-left:54px;
+}
